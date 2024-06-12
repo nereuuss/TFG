@@ -1,2 +1,2 @@
 # TFG
-Desarrollo del tranajo de fin de grado: DEMOSTRACIÓN DE TEOREMAS MEDIANTE LENGUAJES FUNCIONALES  
+Desarrollo del trabajo de fin de grado: DEMOSTRACIÓN DE TEOREMAS MEDIANTE LENGUAJES FUNCIONALES  
