@@ -5,8 +5,9 @@ Este trabajo explora la relación entre la lógica matemática y la programació
 
 En este repositorio se pueden encontrar diferentes archivos. Estos son: 
 1. EjerciciosBien: Con la suma de todos los ejercicios una vez han compilado como deberían 
-2. ReglasAuxiliares: Que contiene unicamente las reglas de inferencia auxiliares propias de la lógica proposicional  
-3. ExSinReglasAux: Con los ejericios que no necsitan estas reglas auxiliares
-4. ExConReglasAux: Con los ejercicios en los que se utilizan estas reglas auxiliares
-5. Hilbert: Con los ejercicios relacionados con la segunda parte del proyecto que se centra en el isomorfismo entre los sistemas de Hilbert y la lógica combinatoria.
+2. ReglasAuxiliares: Que contiene unicamente las reglas de inferencia auxiliares propias de la lógica proposicional
+3. ReglasPrimitivas: Que contiene el desarrollo de las reglas primitivas utilizadas en este proyecto.
+4. ExSinReglasAux: Con los ejericios que no necsitan estas reglas auxiliares
+5. ExConReglasAux: Con los ejercicios en los que se utilizan estas reglas auxiliares
+6. Hilbert: Con los ejercicios relacionados con la segunda parte del proyecto que se centra en el isomorfismo entre los sistemas de Hilbert y la lógica combinatoria.
 
